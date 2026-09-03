@@ -1,0 +1,7 @@
+interface:
+  display_name: "Sutta collaboration"
+  short_description: "คุยไทยให้รู้เรื่อง ทำงานเป็นขั้น"
+  default_prompt: "ใช้ $sutta-collaboration เพื่อคุยและทำงานกับผมแบบภาษาไทยภาษาคน ชัดเจน เป็นขั้น และไม่วนซ้ำ"
+
+policy:
+  allow_implicit_invocation: true
